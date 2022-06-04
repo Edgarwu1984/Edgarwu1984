@@ -1,27 +1,39 @@
-![]()
+![Edgarwu_Github_Banner](https://github.com/Edgarwu1984/Edgarwu1984/blob/master/Edgarwu_Github_Banner.png)
 <div id="badges">
-  <a href="https://www.linkedin.com/in/edgarwu1007/">
+  <a href="https://www.linkedin.com/in/edgarwu1007/" target="_blank">
     <img
       src="https://img.shields.io/badge/About.me-00A98F.svg?style=for-the-badge&logo=aboutdotme&logoColor=white"
     />
   </a>
-  <a href="https://www.linkedin.com/in/edgarwu1007/">
+  <a href="https://www.linkedin.com/in/edgarwu1007/" target="_blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"
     />
   </a>
-  <a href="https://github.com/Edgarwu1984">
+  <a href="https://github.com/Edgarwu1984" target="_blank">
     <img
       src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"
     />
   </a>
+    <a href="https://www.artstation.com/edgarwu" target="_blank">
+    <img
+      src="https://img.shields.io/badge/ArtStation-13AFF0.svg?style=for-the-badge&logo=ArtStation&logoColor=white"
+    />
+  </a>
 </div>
+<br/>
 
 <!-- ### Hi! 👋 This is Edgar Wu. -->
 
 I am based in Melbourne Australia, and currently working at Zenexus as
-full-stack web developer. ### :black_nib: Projects Involved - Rackit Planner -
-Home Solution Planner ### :wrench: Tools I am working with ...
+full-stack web developer. 
+
+### :black_nib: Projects Involved 
+
+- Rackit Planner 
+- Home Solution Planner 
+
+### :wrench: Tools I am working with ...
 <div>
   <img
     src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"
