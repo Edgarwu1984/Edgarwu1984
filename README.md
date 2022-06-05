@@ -96,3 +96,7 @@ full-stack web developer.
     src="https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white"
   />
 </div>
+
+### :computer: Languages that I use most...
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edgarwu1984&layout=compact&theme=tokyonight&hide_border=true&hide_title=true)](https://github.com/edgarwu1984)
