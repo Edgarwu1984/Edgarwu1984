@@ -30,8 +30,9 @@ full-stack web developer.
 
 ### :black_nib: Projects Involved 
 
-- Rackit Planner 
-- Home Solution Planner 
+- [Rackit Planner](https://rack-it-planner.vercel.app/) 
+- [Home Solutions Planner](https://home-solutions-planner.flexistorage.com.au/) 
+
 
 ### :wrench: Tools I am working with ...
 <div>
