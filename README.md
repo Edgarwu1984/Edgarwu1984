@@ -25,7 +25,7 @@
 
 <!-- ### Hi! 👋 This is Edgar Wu. -->
 
-I am based in Melbourne Australia, and currently working at inGenious AI as
+I am based in Melbourne Australia, and currently working at [inGenious AI](https://ingenious.ai/) as
 front-end developer. 
 
 ### :black_nib: Projects Involved 
