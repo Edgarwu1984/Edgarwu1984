@@ -25,8 +25,8 @@
 
 <!-- ### Hi! 👋 This is Edgar Wu. -->
 
-I am based in Melbourne Australia, and currently working at Zenexus as
-full-stack web developer. 
+I am based in Melbourne Australia, and currently working at inGenious AI as
+front-end developer. 
 
 ### :black_nib: Projects Involved 
 
